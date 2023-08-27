@@ -7,13 +7,11 @@ export default function HomePage() {
   return (
     <main>
       <Head>
-        <title>Zuzu.city</title>
-        <meta name="description" content="Zuzu City" />
-        <link rel="icon" href="/favicon/favicon.ico" />
+        <title>Zuzalu.city</title>
+        <meta name='description' content='Zuzalu City' />
+        <link rel='icon' href='/favicon/favicon.ico' />
       </Head>
-      <h5>
-        This is the home page.
-      </h5>
+      <h5>This is the home page.</h5>
     </main>
   );
 }
